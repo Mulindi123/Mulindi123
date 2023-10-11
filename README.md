@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mulindi123
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning javaScript
-- 💞️ I’m looking to collaborate on creating using javaScript
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on creating using JavaScript, React.js, Python, SqlAlchemy
 - 📫 How to reach me medrine.mulindi@gmail.com
 
 <!---
