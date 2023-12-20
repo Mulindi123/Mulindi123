@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/1bc4cc49-1eb3-494f-9ab5-ba2015bc448b.svg)](https://wakatime.com/@1bc4cc49-1eb3-494f-9ab5-ba2015bc448b)
+![](https://komarev.com/ghpvc/?username=Mulindi123&style=plastic&color=yellowgreen)
 # Hi, My name is Medrine Mulindi. 
 I am a full-stack software developer proficient in Python and Javascript.
 
